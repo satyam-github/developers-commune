@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://satyam:satyam@cluster0-iwwk2.mongodb.net/social_network?retryWrites=true&w=majority",
+    "jwtSecret": "Thisismysecret",
+    "githubClientId": "3971737412405d56488b",
+    "githubSecret": "cecc1f8993d84e45270c10e082e894de3cfbbcd5"
+}
